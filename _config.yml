@@ -1,0 +1,28 @@
+name: iphonedation
+favicon: null
+layout_spectrum: 0.8505352078936994
+typography_spectrum: 0.07244364451617002
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.20948994625359774
+  lightness: 0.08704534056596458
+  saturation: 0.3191165728494525
+  rhythmicContrast: 0.5241635255515575
+purpose: []
